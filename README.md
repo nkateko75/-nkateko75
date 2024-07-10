@@ -1,21 +1,6 @@
 ### Hi there 👋, my name is Nkateko
 
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://www.chitkara.edu.in/blogs/wp-content/uploads/2022/11/FULL-STACK-VS-CYBER-SECURITY.jpg)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nkateko75)  
-
-
-
-
 
 I'm a passionate and dedicated tech professional with a diverse background in cybersecurity consulting and full-stack development.
 
