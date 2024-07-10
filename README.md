@@ -28,6 +28,32 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 🔭 **Currently Working:**
 - My online profile (website)
 
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://www.chitkara.edu.in/blogs/wp-content/uploads/2022/11/FULL-STACK-VS-CYBER-SECURITY.jpg)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nkateko75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nkateko-princess-maluleke-b35b8b204//)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nkateko75)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkateko75)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nkateko75&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/nkateko75)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nkateko75)  
+
+
+
+
   
 🔗 **Connect with Me:**
 - LinkedIn
