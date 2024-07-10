@@ -1,6 +1,10 @@
 ### Hi there 👋, my name is Nkateko
 
-[https://www.chitkara.edu.in/blogs/wp-content/uploads/2022/11/FULL-STACK-VS-CYBER-SECURITY.jpg](https://nkateko75.github.io/github-profile-readme-generator/images/banner.png)
+[[https://www.chitkara.edu.in/blogs/wp-content/uploads/2022/11/FULL-STACK-VS-CYBER-SECURITY.jpg](https://nkateko75.github.io/github-profile-readme-generator/images/banner.png)
+
+](https://nkateko75.github.io/github-profile-readme-generator/images/banner.png)
+
+
 
 
 I'm a passionate and dedicated tech professional with a diverse background in cybersecurity consulting and full-stack development.
