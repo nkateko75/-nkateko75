@@ -11,7 +11,9 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 
 💻 **Full-Stack Development:**
 - Proficient in front-end technologies: ![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-239120?style=flat&logo=javascript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-239120?style=flat&logo=bootstrap&logoColor=white)
+- 
 - Skilled in back-end development: ![Python](https://img.shields.io/badge/Python-239120?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-239120?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-239120?style=flat&logo=cplusplus&logoColor=white)
+- 
 - Experienced with databases: ![MySQL](https://img.shields.io/badge/MySQL-239120?style=flat&logo=mysql&logoColor=white)
 
 🌟 **My Mission:**
