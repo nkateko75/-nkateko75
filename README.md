@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Nkateko
 
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+[![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)](https://www.chitkara.edu.in/blogs/wp-content/uploads/2022/11/FULL-STACK-VS-CYBER-SECURITY.jpg)
 
 
 
-I'm Nkateko, a passionate and dedicated tech professional with a diverse background in cybersecurity consulting and full-stack development.
+I'm a passionate and dedicated tech professional with a diverse background in cybersecurity consulting and full-stack development.
 
 🔒 **Cybersecurity Expertise:**
 - Extensive experience in identifying and mitigating security vulnerabilities.
