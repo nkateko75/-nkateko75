@@ -4,27 +4,29 @@
 
 
  I'm Nkateko, a passionate and dedicated tech professional with a diverse background in cybersecurity consulting and full-stack development.
-##🔒 Cybersecurity Expertise:
+
+ 
+🔒 ##Cybersecurity Expertise:
      - Extensive experience in identifying and mitigating security vulnerabilities.
      - Conducted security assessments, penetration testing, and risk management.
      - Developed comprehensive security policies and compliance strategies.
 
   
-##💻 Full-Stack Development:
+💻 ##Full-Stack Development:
      - Proficient in front-end technologies: HTML, CSS, JavaScript, Bootstrap.
      - Skilled in back-end development: Python, Java, C++.
      
 ## Experienced with databases: MySQL.
 
 
-##🌟 My Mission:
+🌟 ##My Mission:
    - To build secure, efficient, and user-friendly applications that make a positive impact. I strive to bridge the gap between cybersecurity and development to create robust 
      and innovative solutions.
      
-##📚 Currently Learning:
+📚 ##Currently Learning:
    - How to build an e-commerce website
      
-##🔗 Connect with Me:
+🔗## Connect with Me:
    - LinkedIn
 
      
