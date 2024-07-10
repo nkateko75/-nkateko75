@@ -20,7 +20,7 @@ I'm Nkateko, a passionate and dedicated tech professional with a diverse backgro
 📚 **Currently Learning:**
 - How to build an e-commerce website
 
-📚 **Currently Working:**
+🔭 **Currently Working:**
 - My online profile (website)
   
 🔗 **Connect with Me:**
