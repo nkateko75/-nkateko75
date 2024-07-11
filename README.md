@@ -14,11 +14,6 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 ## 🌟 My Mission:
 - To build secure, efficient, and user-friendly applications that make a positive impact. I strive to bridge the gap between cybersecurity and development to create robust and innovative solutions.
 
-## 🔒 Cybersecurity Expertise:
-- Extensive experience in identifying and mitigating security vulnerabilities.
-- Conducting security assessments, penetration testing, and risk management.
-- Developing comprehensive security policies and compliance strategies.
-
 ### 🧰 Tools & Languages:
 - Front-end Technologies: 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"> 
