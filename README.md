@@ -6,7 +6,7 @@
 ### About Me
 I'm a passionate and dedicated tech professional with a diverse background in cybersecurity consulting and full-stack development. I envision to build secure, efficient, and user-friendly websites/ applications that make a positive impact. Moreover strive to bridge the gap between cybersecurity and development to create robust and innovative solutions.
 
-## 📊 Streak atats Stats:
+## 📊 Streak Stats:
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nkateko75&theme=nord)
 
 
