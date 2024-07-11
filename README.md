@@ -14,22 +14,19 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 ## 🌟 My Mission:
 - To build secure, efficient, and user-friendly applications that make a positive impact. I strive to bridge the gap between cybersecurity and development to create robust and innovative solutions.
 
-### 🧰 Tools & Languages:
-- Front-end Technologies: 
+### 🧰 Tools & Languages
+
+###Programming languages
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"> 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"> 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="25">
-  
-- Back-end Technologies: 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"> 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="25"> 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="25"> 
-  
-- Databases: 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 
-- Cybersecurity Tools: 
+
+### Cybersecurity Tools: 
   <img src="https://img.shields.io/badge/Metasploit-2A2E42?style=for-the-badge&logo=metasploit&logoColor=white" height="25"> 
   <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" height="25">  
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" height="25"> 
