@@ -2,6 +2,8 @@
 
 <img src="https://www.chitkara.edu.in/blogs/wp-content/uploads/2022/11/FULL-STACK-VS-CYBER-SECURITY.jpg" alt="I am GitHub Readme Generator's creator" width="1000" height="300">
 
+
+### About Me
 I'm a passionate and dedicated tech professional with a diverse background in cybersecurity consulting and full-stack development.
 
 ## 📊 GitHub Stats:
