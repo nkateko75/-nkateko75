@@ -10,21 +10,29 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 - Developed comprehensive security policies and compliance strategies.
 
   Tools: 
-  ![Metasploit](https://img.shields.io/badge/Metasploit-2A2E42?style=flat&logo=metasploit&logoColor=white)
-  ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat&logo=tenable&logoColor=white)
-  ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=nmap&logoColor=white)
-  ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-9B3E95?style=flat&logo=owasp&logoColor=white)
-  ![Vega](https://img.shields.io/badge/Vega-005F87?style=flat&logo=vega&logoColor=white)
-  ![Pentest Tools](https://img.shields.io/badge/Pentest%20Tools-007ACC?style=flat&logo=pentest&logoColor=white)
-  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-  ![Advanced IP Scanner](https://img.shields.io/badge/Advanced%20IP%20Scanner-1A73E8?style=flat&logo=advancedipscanner&logoColor=white)
+  <img src="https://img.shields.io/badge/Metasploit-2A2E42?style=for-the-badge&logo=metasploit&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-9B3E95?style=for-the-badge&logo=owasp&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/Vega-005F87?style=for-the-badge&logo=vega&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/Pentest%20Tools-007ACC?style=for-the-badge&logo=pentest&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/Advanced%20IP%20Scanner-1A73E8?style=for-the-badge&logo=advancedipscanner&logoColor=white" height="25"> 
 
 💻 **Full-Stack Development:**
-- Proficient in front-end technologies: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+- Proficient in front-end technologies: 
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"> 
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="25">
   
-- Skilled in back-end development: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+- Skilled in back-end development: 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="25"> 
   
-- Experienced with databases: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- Experienced with databases: 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 
 🌟 **My Mission:**
 - To build secure, efficient, and user-friendly applications that make a positive impact. I strive to bridge the gap between cybersecurity and development to create robust and innovative solutions.
@@ -45,6 +53,7 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 
 🔗 **Connect with Me:**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/nkateko75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/nkateko-princess-maluleke-b35b8b204//) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/nkateko75)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/nkateko-princess-maluleke-b35b8b204//) 
 
 Let's collaborate and create something amazing together! 🚀
