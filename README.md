@@ -9,6 +9,16 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 - Conducted security assessments, penetration testing, and risk management.
 - Developed comprehensive security policies and compliance strategies.
 
+  Tools: 
+  ![Metasploit](https://img.shields.io/badge/Metasploit-239120?style=flat&logo=metasploit&logoColor=white)
+  ![Nessus](https://img.shields.io/badge/Nessus-239120?style=flat&logo=tenable&logoColor=white)
+  ![Nmap](https://img.shields.io/badge/Nmap-239120?style=flat&logo=nmap&logoColor=white)
+  ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-239120?style=flat&logo=owasp&logoColor=white)
+  ![Vega](https://img.shields.io/badge/Vega-239120?style=flat&logo=vega&logoColor=white)
+  ![Pentest Tools](https://img.shields.io/badge/Pentest%20Tools-239120?style=flat&logo=pentest&logoColor=white)
+  ![Wireshark](https://img.shields.io/badge/Wireshark-239120?style=flat&logo=wireshark&logoColor=white)
+  ![Advanced IP Scanner](https://img.shields.io/badge/Advanced%20IP%20Scanner-239120?style=flat&logo=advancedipscanner&logoColor=white)
+
 💻 **Full-Stack Development:**
 - Proficient in front-end technologies: ![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-239120?style=flat&logo=javascript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-239120?style=flat&logo=bootstrap&logoColor=white)
   
