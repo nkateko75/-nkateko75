@@ -14,6 +14,9 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nkateko75&theme=nord)
 
 
+
+## 🌟 My Mission:
+- To build secure, efficient, and user-friendly applications that make a positive impact. I strive to bridge the gap between cybersecurity and development to create robust and innovative solutions.
 ## 🔒 Cybersecurity Expertise:
 - Extensive experience in identifying and mitigating security vulnerabilities.
 - Conducted security assessments, penetration testing, and risk management.
@@ -42,8 +45,6 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 ### 📚 Currently Learning:
 - How to build an e-commerce website
 
-## 🌟 My Mission:
-- To build secure, efficient, and user-friendly applications that make a positive impact. I strive to bridge the gap between cybersecurity and development to create robust and innovative solutions.
 
 ## 🔭 Currently Working:
 - My online profile (website)
