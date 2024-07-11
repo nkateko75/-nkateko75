@@ -9,7 +9,7 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 - Conducted security assessments, penetration testing, and risk management.
 - Developed comprehensive security policies and compliance strategies.
 
-**Tools:** 
+ **Tools:** 
   <img src="https://img.shields.io/badge/Metasploit-2A2E42?style=for-the-badge&logo=metasploit&logoColor=white" height="25"> 
   <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" height="25"> 
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" height="25"> 
