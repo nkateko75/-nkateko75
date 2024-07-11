@@ -7,12 +7,12 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 ## 🏆 GitHub Profile Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=nkateko75&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nkateko75&show_icons=true&count_private=true&theme=nord)  ## 🔥 GitHub Streak Stats:
+## 📊 GitHub Stats:                                          ## 🔥 GitHub Streak Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nkateko75&show_icons=true&count_private=true&theme=nord) 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nkateko75&theme=nord)
 
- 
 
+ 
 
 
 ## 🌟 My Mission:
