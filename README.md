@@ -10,14 +10,14 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 - Developed comprehensive security policies and compliance strategies.
 
 ### Tools: 
-<img src="https://img.shields.io/badge/Metasploit-2A2E42?style=for-the-badge&logo=metasploit&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/OWASP%20ZAP-9B3E95?style=for-the-badge&logo=owasp&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/Vega-005F87?style=for-the-badge&logo=vega&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/Pentest%20Tools-007ACC?style=for-the-badge&logo=pentest&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/Advanced%20IP%20Scanner-1A73E8?style=for-the-badge&logo=advancedipscanner&logoColor=white" height="25"> 
+ <img src="https://img.shields.io/badge/Metasploit-2A2E42?style=for-the-badge&logo=metasploit&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-9B3E95?style=for-the-badge&logo=owasp&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/Vega-005F87?style=for-the-badge&logo=vega&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/Pentest%20Tools-007ACC?style=for-the-badge&logo=pentest&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/Advanced%20IP%20Scanner-1A73E8?style=for-the-badge&logo=advancedipscanner&logoColor=white" height="25"> 
 
 ## 💻 Full-Stack Development:
 - Proficient in front-end technologies: 
