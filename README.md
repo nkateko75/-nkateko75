@@ -28,7 +28,8 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 
 
 ## 📊 Github Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nkateko75&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nkateko75&show_icons=true&count_private=true&theme=nord) 
+
 
 ## 🔗 Connect with Me:
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/nkateko75)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/nkateko-princess-maluleke-b35b8b204//)
