@@ -9,7 +9,7 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 - Conducted security assessments, penetration testing, and risk management.
 - Developed comprehensive security policies and compliance strategies.
 
-  Tools: 
+**Tools:** 
   <img src="https://img.shields.io/badge/Metasploit-2A2E42?style=for-the-badge&logo=metasploit&logoColor=white" height="25"> 
   <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" height="25"> 
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" height="25"> 
@@ -58,7 +58,7 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 
 🔗 **Connect with Me:**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/nkateko75)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/nkateko-princess-maluleke-b35b8b204//) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/nkateko75)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/nkateko-princess-maluleke-b35b8b204//) 
+
 
 Let's collaborate and create something amazing together! 🚀
