@@ -4,6 +4,16 @@
 
 I'm a passionate and dedicated tech professional with a diverse background in cybersecurity consulting and full-stack development.
 
+## 🏆 GitHub Profile Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=nkateko75&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nkateko75&show_icons=true&count_private=true&theme=nord)
+
+## 🔥 GitHub Streak Stats:
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nkateko75&theme=nord)
+
+
 ## 🔒 Cybersecurity Expertise:
 - Extensive experience in identifying and mitigating security vulnerabilities.
 - Conducted security assessments, penetration testing, and risk management.
@@ -38,14 +48,6 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 ## 🔭 Currently Working:
 - My online profile (website)
 
-## 🏆 GitHub Profile Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=nkateko75&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nkateko75&show_icons=true&count_private=true&theme=nord)
-
-## 🔥 GitHub Streak Stats:
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nkateko75&theme=nord)
 
 ## 🔗 Connect with Me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/nkateko75)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/nkateko-princess-maluleke-b35b8b204//)
