@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Nkateko Maluleke
+# Hi there 👋, my name is Nkateko
 
 <img src="https://www.chitkara.edu.in/blogs/wp-content/uploads/2022/11/FULL-STACK-VS-CYBER-SECURITY.jpg" alt="I am GitHub Readme Generator's creator" width="1000" height="300">
 
