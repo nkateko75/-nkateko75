@@ -19,8 +19,8 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 - To build secure, efficient, and user-friendly applications that make a positive impact. I strive to bridge the gap between cybersecurity and development to create robust and innovative solutions.
 ## 🔒 Cybersecurity Expertise:
 - Extensive experience in identifying and mitigating security vulnerabilities.
-- Conducted security assessments, penetration testing, and risk management.
-- Developed comprehensive security policies and compliance strategies.
+- Conducting security assessments, penetration testing, and risk management.
+- Developing comprehensive security policies and compliance strategies.
 
 ### 🧰  Tools: 
  <img src="https://img.shields.io/badge/Metasploit-2A2E42?style=for-the-badge&logo=metasploit&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" height="25">  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" height="25"> <img src="https://img.shields.io/badge/OWASP%20ZAP-9B3E95?style=for-the-badge&logo=owasp&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Vega-005F87?style=for-the-badge&logo=vega&logoColor=white" height="25"> 
