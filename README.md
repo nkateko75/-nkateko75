@@ -22,12 +22,11 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 
 ### 🛠️ Tools & Languages
 
-### 💻  Programming languages
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25">    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25">   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25">  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="25">    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="25"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="25"> 
+#### 💻 Programming languages
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="25"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="25">
 
-###  🔒 Cybersecurity Tools
-<img src="https://img.shields.io/badge/Metasploit-2A2E42?style=for-the-badge&logo=metasploit&logoColor=white" height="25">  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" height="25">  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" height="25"> <img src="https://img.shields.io/badge/OWASP%20ZAP-9B3E95?style=for-the-badge&logo=owasp&logoColor=white" height="25">  <img src="https://img.shields.io/badge/Vega-005F87?style=for-the-badge&logo=vega&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Pentest%20Tools-007ACC?style=for-the-badge&logo=pentest&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Advanced%20IP%20Scanner-1A73E8?style=for-the-badge&logo=advancedipscanner&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="25">
+#### 🔒 Cybersecurity Tools
+<img src="https://img.shields.io/badge/Metasploit-2A2E42?style=for-the-badge&logo=metasploit&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" height="25"> <img src="https://img.shields.io/badge/OWASP%20ZAP-9B3E95?style=for-the-badge&logo=owasp&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Vega-005F87?style=for-the-badge&logo=vega&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Pentest%20Tools-007ACC?style=for-the-badge&logo=pentest&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Advanced%20IP%20Scanner-1A73E8?style=for-the-badge&logo=advancedipscanner&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="25">
 
 ---
 
@@ -47,7 +46,7 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 ---
 
 ## 🔗 Connect with Me:
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/nkateko75)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/nkateko-princess-maluleke-b35b8b204//)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='email' height='25'>](mailto:nkatekoluks@gmail.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/nkateko75) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/nkateko-princess-maluleke-b35b8b204//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='email' height='25'>](mailto:nkatekoluks@gmail.com)
 
 ---
 
