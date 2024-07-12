@@ -48,19 +48,6 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 
 ---
 
-## 💬 Leave a Message:
-### [GitHub Discussions](https://github.com/nkateko75/REPO_NAME/discussions)
-### [Google Form](https://forms.gle/YOUR_GOOGLE_FORM_LINK)
-
----
-
-## 📝 Visitor Messages:
-1. **User1**: "Great profile! Keep up the good work."
-2. **User2**: "Impressive skills and projects. Looking forward to collaborating."
-3. **User3**: "Your work in cybersecurity is inspiring!"
-
----
-
 ## 🔗 Connect with Me:
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/nkateko75)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/nkateko-princess-maluleke-b35b8b204//)
 
