@@ -48,7 +48,7 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 ---
 
 ## 💬 Leave a Message:
-### [GitHub Discussions](https://github.com/nkateko75/REPO_NAME/discussions)
+### [GitHub Discussions](https://github.com/nkateko75/nkateko75/discussions)
 ### [Google Form](https://forms.gle/YOUR_GOOGLE_FORM_LINK)
 
 ---
