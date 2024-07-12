@@ -4,7 +4,6 @@
 
 ---
 
-
 ## 👀 Profile Views:
 
 [![](https://visitcount.itsvg.in/api?id=nkateko75&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -48,12 +47,16 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 
 ---
 
+## 💬 Leave a Message:
+### [GitHub Discussions](https://github.com/nkateko75/REPO_NAME/discussions)
+### [Google Form](https://forms.gle/YOUR_GOOGLE_FORM_LINK)
+
+---
+
 ## 🔗 Connect with Me:
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/nkateko75)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/nkateko-princess-maluleke-b35b8b204//)
 
 ---
-
-
 
 Let's collaborate and create something amazing together! 🚀
 Thank you for visiting my profile! 😊
