@@ -4,6 +4,12 @@
 
 ---
 
+
+## 👀 Profile Views:
+![Profile views](https://gpvc.arturio.dev/nkateko75)
+
+---
+
 ### About Me
 I'm a passionate and dedicated tech professional with a diverse background in cybersecurity consulting and full-stack development. I envision to build secure, efficient, and user-friendly websites/applications that make a positive impact. Moreover, I strive to bridge the gap between cybersecurity and development to create robust and innovative solutions.
 
@@ -47,10 +53,7 @@ I'm a passionate and dedicated tech professional with a diverse background in cy
 
 ---
 
-## 👀 Profile Views:
-![Profile views](https://gpvc.arturio.dev/nkateko75)
 
----
 
 Let's collaborate and create something amazing together! 🚀
 Thank you for visiting my profile! 😊
